@@ -433,26 +433,7 @@ SELECT * FROM public.stg_orders LIMIT 3;
     2     |     231     | 2024-03-16 | CREATED   |     12     |    1     | 450.00 |   450.00
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow PEP 8 style guide
-- Add docstrings to all functions
-- Write tests for new features
-- Update README for significant changes
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -461,16 +442,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Faker](https://faker.readthedocs.io/) - Synthetic data generation
 - Inspired by real-world data engineering patterns
 
-## 📧 Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
-
-**Project Link**: [https://github.com/yourusername/airflow-s3-redshift-etl](https://github.com/yourusername/airflow-s3-redshift-etl)
 
 ---
 
 ⭐ **Star this repo** if you found it helpful!
-
-💡 **Questions?** Open an issue or reach out via email.
 
 🚀 **Happy Data Engineering!**
